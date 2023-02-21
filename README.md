@@ -52,6 +52,12 @@ GITHUB_CLIENT_ID=<your-github-client-id>
 GITHUB_CLIENT_SECRET=<your-github-client-secret>
 ```
 
+Run Applicaiton
+
+```bash
+    pnpm run dev
+```
+
 ## Tech Stack
 
 **Client:** NextJS
